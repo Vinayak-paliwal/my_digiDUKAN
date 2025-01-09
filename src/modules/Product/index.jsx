@@ -14,7 +14,7 @@ const Product = () => {
           fetchProduct();
     }, [])
 
-    if (!Object.keys(product).length > 20) return <div>Product Not Found</div>
+    if (!Object.keys(product).length > 0) return <div>Loading.....</div>
     
     return (
         <section className="text-gray-600 body-font overflow-hidden">
