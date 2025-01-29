@@ -33,6 +33,7 @@ const Product = () => {
         }else {
             localStorage.setItem('cart', JSON.stringify([...cart, {...product, quantity:1}]))
         }
+        alert('Cart updated successfully')
         if(redirect) {
             navigate('/cart')
         }
