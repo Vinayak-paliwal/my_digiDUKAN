@@ -1,2 +1,2 @@
 #View here
- https://vinayak-paliwal.github.io/ecom/
+https://vinayak-paliwal.github.io/my_digiDUKAN/
