@@ -1,1 +1,1 @@
-https://vinayak-paliwal.github.io/my_digiDUKAN/
+https://my-digi-dukan.vercel.app/
